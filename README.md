@@ -10,6 +10,8 @@
 
 [参与贡献](https://github.com/ityouknow/book-100/issues/new)
 
+> 感兴趣一起深度参与此开源项目的朋友，加我微信 puresmilea
+
 ## 目录
 
 - [待补充](#)
