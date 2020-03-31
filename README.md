@@ -7,6 +7,7 @@
 - [纯洁的微笑](https://github.com/ityouknow)
 - [ufan0](https://github.com/ufan0/)
 - [汤圆](https://github.com/tangyuan-hub)
+- [aracwong](https://aracwong.github.io)
 
 [参与贡献](https://github.com/ityouknow/book-100/issues/new)
 
@@ -39,6 +40,7 @@
 |《浪潮之巅（第三版）》（上下册）|9.2|1393|业界|
 |《Java并发编程实战》|9|1204|Java|
 |《算法（第四版）》|9.4|1179|算法|
+|《编码：隐匿在计算机软硬件背后的语言》|9.3|3117|基础|
 |《精通正则表达式》|8.9|1069|正则|
 |《算法导论（第三版）》|9.2|983|算法|
 |《网络是怎样连接的》|9.1|922|网络|
