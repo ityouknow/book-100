@@ -9,6 +9,7 @@
 - [汤圆](https://github.com/tangyuan-hub)
 - [aracwong](https://aracwong.github.io)
 - [轩辕御龙](https://github.com/lierchao1997)
+- [含脂肪的沙茶酱](https://github.com/hoochanlon)
 
 [参与贡献](https://github.com/ityouknow/book-100/issues/new)
 
@@ -61,11 +62,14 @@
 |《SRE：Google运维解密》|8.9|329|运维|
 |《汇编语言》（第三版）|9.2|321|汇编|
 |《深入理解计算机系统》|9.7|308|基础|
+|《图解密码技术》|9.1|344|开发|
+|《穿越计算机的迷雾》|9.0|426|基础|
 |《[数据密集型应用系统设计](https://book.douban.com/subject/30329536/)》|9.6|364|数据系统|
 |《CLR via C#》|9.5|313|C#|
 |《[架构整洁之道](https://book.douban.com/subject/30333919/)》|8.7|315|架构|
 |《C# 7.0 核心技术指南》|8.5|300|C#|
 |《C#从现象到本质》|8.5|300|C#|
+
 
 
 
