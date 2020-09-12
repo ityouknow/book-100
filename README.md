@@ -9,6 +9,7 @@
 - [汤圆](https://github.com/tangyuan-hub)
 - [aracwong](https://aracwong.github.io)
 - [轩辕御龙](https://github.com/lierchao1997)
+- [含脂肪的沙茶酱](https://github.com/hoochanlon)
 
 [参与贡献](https://github.com/ityouknow/book-100/issues/new)
 
